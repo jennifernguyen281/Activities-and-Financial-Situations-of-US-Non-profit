@@ -1,4 +1,4 @@
-For the project, our team would like to look into this dataset about Charities and Non-profit organizations in the United States’ Mid-Atlantic and Great Lakes Areas. More specifically, the dataset presents organizations’ basic information, financial situations, and classifications. 
+For the project, our team looked into this dataset about Charities and Non-profit organizations in the United States’ Mid-Atlantic and Great Lakes Areas. More specifically, the dataset presents organizations’ basic information, financial situations, and classifications. 
 
 You can download the dataset in the CSV format at https://www.irs.gov/pub/irs-soi/eo_info.pdf. The dataset’s size is 113.8 MB and is last updated on 11/11/2019. The dataset has 644942 records at the transactional level and 28 variables. Each record represents a tax-exempt organization. 
 
